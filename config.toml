@@ -1,0 +1,11 @@
+siteTitle = "Mark Guckian"
+siteDescr = "Software engineer focused on front-end development"
+siteAuthor = "Mark Guckian"
+
+siteTwitterUrl = "https://twitter.com/mguckian"
+siteGithubUrl = "https://github.com/markguckian"
+siteLinkedInUrl = "https://www.linkedin.com/in/mark-guckian-6588775b/"
+
+googleAnalyticsId = "UA-70790111-1"
+
+linkPrefix = "/"
