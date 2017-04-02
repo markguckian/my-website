@@ -1,0 +1,21 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Twitter: http://twitter.com/mguckian
+    GitHub: https://github.com/markguckian
+    Rss: /atom.xml
+
+favicon: /favicon.ico
+logo: /photo.jpg
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-70790111-1
+
+# Copyright Infomation
+startyear: 2017
